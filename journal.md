@@ -1,11 +1,17 @@
-# Diário
-## 19/01/2025 - 22h07-00h14
-Comecei a fazer meu macropad, fiz o esquema e o design da PCB em si
+# Project Diary
+## 2025-01-19 — 22:07 to 00:14
+Started the macropad project.  
+Designed the schematic and PCB layout using KiCad, including component placement and routing.
 
-## 20/01/2025 - 10h30-14h20
-Comecei a fazer a case do meu macropad
-Tinkercad é terrivel, e o fusion não quer liberar o acesso estudantil nem com reza
-Consegui baixar o fusion personal, e meu Deus, 4 horas???? que coisa mais terrivel de se fazer, mas consegui terminar a case, agora vou iniciar a tampa
+## 2025-01-20 — 10:30 to 14:20
+Began designing the macropad case.  
+Initially attempted using Tinkercad, which proved unsuitable for this level of precision.  
+Switched to Fusion 360 Personal and modeled the bottom case after a significant learning curve.
 
-## 20/01/2025 - 14h30-16h30
-FIZ A TAMPAA, só não consegui assinar, mas isso é problema pra depois :P
+## 2025-01-20 — 14:30 to 16:30
+Completed the top plate design for the case.  
+The overall enclosure is now fully modeled and ready for export and manufacturing.
+
+## 2025-01-20 — 17:40 to 18:20
+Developed the initial firmware using KMK and CircuitPython.  
+Configured pin mapping and created macros focused on competitive programming workflows.

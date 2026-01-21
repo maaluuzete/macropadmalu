@@ -56,15 +56,14 @@ Code Editor          | VS Code           |
 ├── firmware/
 │ └── main.py
 ├── pcb/
-│ ├── schematics.kicad_sch
-│ ├── pcb.kicad_pcb
-│ └── gerbers/
+│ ├── macropadmaluu.kicad_pcb
+│ ├── macropadmaluu.kicad_pro
+│ └── macropadmaluu.kicad_sch
 ├── case/
-│ ├── fusion/
-│ ├── exports/
-│ └── renders/
+│ ├── topmacropad.f3d
+│ ├── casemalumacropad.f3d
 └── docs/
-└── images/
+│ ├── images/
 ```
 
 ---

@@ -56,7 +56,6 @@ Code Editor          | VS Code           |
 ├── diary.md
 ├── firmware/
 │ └── main.py
-│ └── boot.py
 ├── pcb/
 │ ├── macropadmaluu.kicad_pcb
 │ ├── macropadmaluu.kicad_pro

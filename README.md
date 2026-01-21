@@ -90,21 +90,6 @@ Formats:
 - STEP (for editing)
 
 ---
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/maaluuzete/macropadmalu.git
-cd macropadmalu
-```
-## 2.Flashing the Firmware
-1. Install CircuitPython on your microcontroller
-2. Copy:
-  - KMK/
-  - boot.py
-  - main.py
-3. Reboot device, ready to use!
 
 ## Development Log
 A detailed development log is available in: ``` diary.md ```

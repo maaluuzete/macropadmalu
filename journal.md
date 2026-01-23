@@ -15,3 +15,6 @@ The overall enclosure is now fully modeled and ready for export and manufacturin
 ## 2025-01-20 — 17:40 to 18:20
 Developed the initial firmware using KMK and CircuitPython.  
 Configured pin mapping and created macros focused on competitive programming workflows.
+
+## 2025-01-23 - 13:00 to 16h31
+Decidi que vou mudar a ideia, vai ser um macropad que ira funcionar como um osciloscopio, no meu curso tecnico é um instrumento muito usado, porquê não fazer o meu proprio? durante este periodo fiz ajustes no esquema

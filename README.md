@@ -69,4 +69,4 @@ Code Editor          | VS Code           |
 ---
 
 ## Development Log
-A detailed development log is available in: ``` diary.md ``` :)
+A detailed development log is available in: ``` journal.md ``` :)

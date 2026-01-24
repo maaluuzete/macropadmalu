@@ -18,6 +18,7 @@ Designed from scratch as my first full hardware project, this macropad is mainly
 - Custom PCB designed in KiCad;
 - Custom 3D-printed case and plate designed in Fusion 360;
 - Firmware based on KMK+CircuitPython;
+- Rotary encoder for system volume control;
 - Designed for programming and competitive programming macros.
 
 ---

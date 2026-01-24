@@ -1,14 +1,12 @@
 # Malu's Macropad
-
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![CAD](https://img.shields.io/badge/CAD-Fusion%20360-orange)
 ![EDA](https://img.shields.io/badge/EDA-KiCad-blue)
 ![Firmware](https://img.shields.io/badge/Firmware-KMK%20%2F%20CircuitPython-purple)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-A compact 6-key programmable macropad built around the Seeed XIAO RP2040. 
-This project focuses on a clean, simple 2×3 key layout, a custom PCB, and a cute 3D-printed case.
+A compact 6-key programmable macropad built around the Seeed XIAO RP2040, featuring a clean 2×3 key layout, a custom PCB, and a cute 3D-printed case.
+In addition to the six mechanical keys, the macropad includes a rotary encoder for intuitive controls (such as volume(my case), scrolling, or zoom) and built-in decorative LEDs for a subtle aesthetic touch.
 Designed from scratch as my first full hardware project, this macropad is mainly aimed at programming and competitive programming workflows, with custom macros for VS Code and common coding actions.
 
 ---
@@ -53,16 +51,19 @@ Code Editor          | VS Code           |
 ## Repository Structure
 ```
 ├── README.md
-├── diary.md
+├── journal.md
 ├── firmware/
 │ └── main.py
 ├── pcb/
+│ ├──gerbers/
 │ ├── macropadmaluu.kicad_pcb
 │ ├── macropadmaluu.kicad_pro
 │ └── macropadmaluu.kicad_sch
 ├── case/
-│ ├── topmacropad.f3d
-│ ├── casemalumacropad.f3d
+│ ├── topmalumacropad.f3d
+│ ├── malumacropadstep.f3d
+│ ├── tampamalumacropad.step
+│ ├── malumacropadcase.step
 └── docs/
 │ ├── images/
 ```

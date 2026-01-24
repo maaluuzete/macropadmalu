@@ -1,4 +1,4 @@
-# 6-Key Programmable Macropad
+# Malu's Macropad
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -7,19 +7,20 @@
 ![Firmware](https://img.shields.io/badge/Firmware-KMK%20%2F%20CircuitPython-purple)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-A custom-designed 6-key programmable macropad, developed from scratch for productivity and competitive programming workflows.  
-This project covers the full pipeline: electronics design, mechanical CAD, firmware, and documentation.
+A compact 6-key programmable macropad built around the Seeed XIAO RP2040. 
+This project focuses on a clean, simple 2×3 key layout, a custom PCB, and a cute 3D-printed case.
+Designed from scratch as my first full hardware project, this macropad is mainly aimed at programming and competitive programming workflows, with custom macros for VS Code and common coding actions.
 
 ---
 
 ## Features
 
-- 6 fully programmable mechanical keys  
-- Custom PCB designed in KiCad  
-- Custom 3D printed case and top plate designed in Fusion 360  
-- Firmware based on KMK + CircuitPython  
-- Optimized for programming & competitive programming shortcuts  
-- Designed for easy manufacturing and assembly  
+- 6 programmable mechanical keys (2×3 layout);
+- Seeed XIAO RP2040 microcontroller;
+- Custom PCB designed in KiCad;
+- Custom 3D-printed case and plate designed in Fusion 360;
+- Firmware based on KMK+CircuitPython;
+- Designed for programming and competitive programming macros.
 
 ---
 
@@ -27,7 +28,7 @@ This project covers the full pipeline: electronics design, mechanical CAD, firmw
 
 | Area              | Tool / Technology |
 |-------------------|-------------------|
-CAD (Case & Plate)   | Fusion 360        |
+CAD (Case & Top)   | Fusion 360        |
 PCB Design           | KiCad             |
 Firmware             | KMK (CircuitPython) |
 Programming          | Python            |
@@ -56,58 +57,16 @@ Code Editor          | VS Code           |
 ├── firmware/
 │ └── main.py
 ├── pcb/
-│ ├── schematics.kicad_sch
-│ ├── pcb.kicad_pcb
-│ └── gerbers/
+│ ├── macropadmaluu.kicad_pcb
+│ ├── macropadmaluu.kicad_pro
+│ └── macropadmaluu.kicad_sch
 ├── case/
-│ ├── fusion/
-│ ├── exports/
-│ └── renders/
+│ ├── topmacropad.f3d
+│ ├── casemalumacropad.f3d
 └── docs/
-└── images/
+│ ├── images/
 ```
-
 ---
-
-## Firmware Overview
-
-The firmware is written using KMK, a Python-based keyboard firmware for CircuitPython.
-Example functionality:
-- Launch VS Code
-- Insert common code templates
-- Execute build/run commands
-- Useful macros for competitive programming
-Located at: ``` firmware/main.py ```
----
-
-## Manufacturing
-### PCB
-- Gerber files located in: ```pcb/gerbers/```
-- Compatible with JLCPCB, PCBWay, etc.
-### Case
-- Exported files for 3D printing:```case/exports/```
-Formats:
-- STL (for printing)
-- STEP (for editing)
-
----
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/maaluuzete/macropadmalu.git
-cd macropadmalu
-```
-## 2.Flashing the Firmware
-1. Install CircuitPython on your microcontroller
-2. Copy:
-  - KMK/
-  - boot.py
-  - main.py
-3. Reboot device, ready to use!
 
 ## Development Log
-A detailed development log is available in: ``` diary.md ```
-
-
+A detailed development log is available in: ``` journal.md ``` :)

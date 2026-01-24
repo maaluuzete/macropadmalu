@@ -21,3 +21,7 @@ Decidi que vou mudar a ideia, vai ser um macropad que ira funcionar como um osci
 
 ## 2026-01-23 - 19:00 to 21:00 
 eu fiz o esquema e tudo mais, mas percebi que havia deixado de ser um macropad :/ então comecei do zero de novo... depois faço o projeto do osciloscopio
+
+## 2026-01-23 - 21:40 to 23:00 
+refiz, agora só falta arrumar o fusion
+

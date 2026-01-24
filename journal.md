@@ -25,3 +25,6 @@ eu fiz o esquema e tudo mais, mas percebi que havia deixado de ser um macropad :
 ## 2026-01-23 - 21:40 to 23:00 
 refiz, agora só falta arrumar o fusion
 
+## 2026-01-24 - 10:00 to 14:00 
+Arrumei o fusion
+

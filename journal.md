@@ -12,19 +12,25 @@ Switched to Fusion 360 Personal and modeled the bottom case after a significant 
 Completed the top plate design for the case.  
 The overall enclosure is now fully modeled and ready for export and manufacturing.
 
-## 2025-01-20 — 17:40 to 18:20
+## 2026-01-20 — 17:40 to 18:20
 Developed the initial firmware using KMK and CircuitPython.  
 Configured pin mapping and created macros focused on competitive programming workflows.
 
-## 2026-01-23 - 13:00 to 16h31
-Decidi que vou mudar a ideia, vai ser um macropad que ira funcionar como um osciloscopio, no meu curso tecnico é um instrumento muito usado, porquê não fazer o meu proprio? durante este periodo fiz ajustes no esquema
+## 2026-01-23 — 13:00 to 16:31  
+I decided to change the original idea: instead of just a macropad, it would become a macropad that also works as an oscilloscope. Since this is an instrument I use a lot in my technical course, I thought, why not build my own?  
+During this period, I made several adjustments to the schematic.
 
-## 2026-01-23 - 19:00 to 21:00 
-eu fiz o esquema e tudo mais, mas percebi que havia deixado de ser um macropad :/ então comecei do zero de novo... depois faço o projeto do osciloscopio
+---
+## 2026-01-23 — 19:00 to 21:00  
+I finished the schematic and related work, but then realized that the project had stopped being a macropad :/  
+So I decided to start over from scratch. I’ll come back to the oscilloscope project later.
 
-## 2026-01-23 - 21:40 to 23:00 
-refiz, agora só falta arrumar o fusion
+---
+## 2026-01-23 — 21:40 to 23:00  
+I rebuilt the project from the ground up.  
+At this point, everything is back on track, and now I just need to fix and refine the Fusion 360 design.
 
-## 2026-01-24 - 10:00 to 14:00 
-Arrumei o fusion
+---
+## 2026-01-24 — 10:00 to 14:00  
+I fixed the Fusion 360 model and updated the case design.  
 

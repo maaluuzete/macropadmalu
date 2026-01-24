@@ -45,7 +45,7 @@ Code Editor          | VS Code           |
 ### PCB & Schematic (KiCad)
 ![Schematic](docs/images/kicad_schematic.png)
 ![PCB](docs/images/kicad_pcb.png)
-![PCB 3D View](docs/images/pcb_3d.png)
+![PCB 3D View](docs/images/macropad_3d.png)
 
 ---
 
